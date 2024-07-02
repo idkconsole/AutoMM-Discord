@@ -1,2 +1,1 @@
-# AutoMM-Discord
-Automated middleman discord bot , supports litecoin only.
+Leak on 10 stars 🌠
